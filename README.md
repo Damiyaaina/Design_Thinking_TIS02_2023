@@ -3,6 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 🪞Fun Fact about me : 
+------------------------
 - I love to design something especially when i do assignment which is slide so i love to create a good template 
 - I can read book and finish it in one day
 - I enjoy create a content for youtube and tiktok
