@@ -9,8 +9,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in UTM Johor Bahru , Skudai , Johor
 * ✉️  You can contact me at [damiyaaina@graduate.utm.my](mailto:damiyaaina@graduate.utm.my)
 
-  BACHELOR IN COMPUTER SCIENCE (DATA ENGINEERING)
-
+ BACHELOR IN COMPUTER SCIENCE (DATA ENGINEERING)
+---------------------------------------------------
 
 
 ### Skills
