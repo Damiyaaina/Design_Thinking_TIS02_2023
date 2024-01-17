@@ -26,7 +26,7 @@ EDUCATION
 - 🪞 PNGK SEMESTER 2 : 4.00 
 - UTM JOHOR BAHRU (2023 - now)
 
-🪞Fun Fact about me : 
+Fun Fact about me : 
 ------------------------
 - I love to design something especially when i do assignment which is slide so i love to create a good template 
 - I can read book and finish it in one day
