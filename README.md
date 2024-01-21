@@ -1,6 +1,3 @@
-[](https://www.google.com.my/url?sa=i&url=https%3A%2F%2Fhilotherm.co.uk%2Fzenb.php%3Fcid%3D258%26kys%3Dneon%2Blight%2Bwelcome%26g%3D2&psig=AOvVaw2nsPqj7ApysGT8JpM6tLAz&ust=1705909716307000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjKw4r_7YMDFQAAAAAdAAAAABAQ)
-
-
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DAMIYA AINA BINTI BASIR ABD SHAMMAD
 ===========================================================================================================================================================
 
