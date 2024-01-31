@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is DAMIYA AINA BINTI BASIR ABD SHAMMAD
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Damiya Aina binti Basir Abd Shammad
 ===========================================================================================================================================================
 
 I have always loved learning Computer Science, ever since I started secondary school in Form 1. I have learned basic computer programming such as Phyton, but I already forgotten it as it 
@@ -26,24 +26,18 @@ EDUCATION
 - 🪞 PNGK SEMESTER 2 : 4.00 
 - UTM JOHOR BAHRU (2023 - now)
 
-Fun Fact about me : 
-------------------------
-- I love to design something especially when i do assignment which is slide so i love to create a good template 
-- I can read book and finish it in one day
-- I enjoy create a content for youtube and tiktok
+
+
+1st Year Student of UTM
+-----------------------
+
+🪞Fun Fact about me : - I love to design something especially when i do assignment which is slide so i love to create a good template - I can read book and finish it in one day - I enjoy create a content for youtube and tiktok
 
 * 🌍  I'm based in UTM Johor Bahru , Skudai , Johor
 * ✉️  You can contact me at [damiyaaina@graduate.utm.my](mailto:damiyaaina@graduate.utm.my)
 
- BACHELOR IN COMPUTER SCIENCE (DATA ENGINEERING)
----------------------------------------------------
-
-LinkedIn : [](www.linkedin.com/in/damiya-aina-2a4857299)
-GitHub : [](https://github.com/Damiyaaina)
-
-
-
 ### Skills
+
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
@@ -52,7 +46,7 @@ GitHub : [](https://github.com/Damiyaaina)
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/damiyaaina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/itsdmiyaaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<p align="left"> <a href="https://www.github.com/damiyaaina" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/itsdmiyaaa" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/damiya-aina-2a4857299/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
