@@ -38,6 +38,10 @@ Fun Fact about me :
  BACHELOR IN COMPUTER SCIENCE (DATA ENGINEERING)
 ---------------------------------------------------
 
+LinkedIn : [](www.linkedin.com/in/damiya-aina-2a4857299)
+GitHub : [](https://github.com/Damiyaaina)
+
+
 
 ### Skills
 
